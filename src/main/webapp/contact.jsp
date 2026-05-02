@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>FreshMart - Home</title>
+    <title>Contact Us</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<header>
-    <h1>FreshMart 🛒</h1>
-    <p>Fresh Fruits & Vegetables Delivered Daily</p>
-</header>
+<header><h1>Contact FreshMart</h1></header>
 
 <nav>
     <a href="index.jsp">Home</a>
@@ -19,12 +16,12 @@
 </nav>
 
 <div class="container">
-    <h2>Welcome to FreshMart</h2>
-    <p>Your one-stop shop for fresh groceries.</p>
+    <p>Email: support@freshmart.com</p>
+    <p>Phone: +91 9876543210</p>
 </div>
 
 <footer>
-    <p>© 2026 FreshMart</p>
+    <p>We’re Here to Help</p>
 </footer>
 
 </body>

@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>FreshMart - Home</title>
+    <title>About Us</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<header>
-    <h1>FreshMart 🛒</h1>
-    <p>Fresh Fruits & Vegetables Delivered Daily</p>
-</header>
+<header><h1>About FreshMart</h1></header>
 
 <nav>
     <a href="index.jsp">Home</a>
@@ -19,12 +16,11 @@
 </nav>
 
 <div class="container">
-    <h2>Welcome to FreshMart</h2>
-    <p>Your one-stop shop for fresh groceries.</p>
+    <p>FreshMart provides fresh groceries directly from farms to your home.</p>
 </div>
 
 <footer>
-    <p>© 2026 FreshMart</p>
+    <p>Quality You Can Trust</p>
 </footer>
 
 </body>
